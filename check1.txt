@@ -1,1 +1,2 @@
 line1 from check1.txt
+l2 from check1.txt
